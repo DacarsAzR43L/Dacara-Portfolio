@@ -517,6 +517,11 @@ nav .fa-solid{
 		text-align: center;
 	}
 
+	.layer{
+		overflow: scroll;
+		font-size: 11px;
+	}
+
 
 	nav .fa-solid{
 	display: block;
@@ -580,6 +585,7 @@ nav ul .fa-solid{
 .btn .btn2{
 	width: 100%;
 }
+
 
 
 }
