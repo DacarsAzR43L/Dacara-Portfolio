@@ -139,7 +139,7 @@ nav ul li a:hover::after {
 /* ABOUT SECTION*/
 
 #about{
-	padding: 90px 0;
+	padding: 60px 0;
 	color: #ababab;
 	
 }
@@ -475,7 +475,7 @@ nav .fa-solid{
 	}
 
 	#about{
-		margin-top: 120px;
+		margin-top: 90px;
 	}
 
 	.header-row-left .header-text{
